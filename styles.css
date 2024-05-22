@@ -106,6 +106,37 @@ p {
     width: 35%;
 }
 
+.last_section {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container button{
+    margin: 57px 0;
+    height: 40px;
+    border-radius: 15px;
+    width: 100px;
+    background-color: #3882F6;
+    border-color: white;
+}
+
+
+.container {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    background-color: #3882F6;
+    width: 75%;
+    height:50%;
+    flex-wrap: wrap;
+    padding-left: 200px;
+}
+
+
+
 
 
 
