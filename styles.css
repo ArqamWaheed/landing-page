@@ -53,5 +53,46 @@ p {
     font-size: 18px;
 }
 
+.second_section {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.insidesecond {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.imagetext p,
+.images img {
+    height:150px;
+    width:150px;
+    color: black;
+}
+
+.images {
+    height: 200px;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.imagetext {
+    height: 150px;
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+
+
+
 
 
